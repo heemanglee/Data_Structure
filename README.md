@@ -1,4 +1,4 @@
-## 쉽게 배우는 자료구조 with 파이썬
+## 쉽게 배우는 자료구조 with Java
 ![image](https://github.com/user-attachments/assets/cf066bb6-0d6a-49b5-80f0-217ad78a0be7)
 
 - 본 저장소는 **쉽게 배우는 자료구조 with 파이썬**을 참고하여 기록한다.
